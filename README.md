@@ -1,4 +1,5 @@
 ## Hi there 👋
+$$\color{cyan}{\text{Welcome to my profile!}}$$
 $\color{red}{\text{I\ think\ I'm\ slightly\ funny}}$
 <!--
 **MaSedacaJuneja26/MaSedacaJuneja26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
