@@ -1,7 +1,7 @@
 ## Hi there 👋
 $$\color{cyan}{\text{Welcome to my profile!}}$$
 $\color{red}{\text{I\ think\ I'm\ slightly\ funny}}$
-<img src="blob:chrome-untrusted://media-app/c0f658db-33a4-432b-b243-9036af06613e" alt="beat-saber.jpg"/><img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/0be91973-2cb3-4ae8-a68d-2a18204fcdd9" />
+<img src="https://github.com/user-attachments/assets/0be91973-2cb3-4ae8-a68d-2a18204fcdd9" />
 
 <!--
 **MaSedacaJuneja26/MaSedacaJuneja26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
